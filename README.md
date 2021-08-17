@@ -6,6 +6,5 @@ Dependencies:
 * BeautifulSoup
 * Scikit learn
 * Pandas
-* PyQt5
 
 -> Run main.py
